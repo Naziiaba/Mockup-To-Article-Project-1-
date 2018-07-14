@@ -8,7 +8,7 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 Your response goes here!
 Q1: What new skills have you learned? 
-Answer: I've learned how to write HTML documents and how to style it with CSS elements. I llearnt about HTML tags, semantic elements, CSS syntax, how to write code faster.
+Answer: I've learned how to write HTML documents and how to style it with CSS elements. I learnt about HTML syntax, semantic elements, CSS syntax, how to write code faster.
 
 Q2: What has been easy?
 Answer: Placing tags, changing font-family was easy.
