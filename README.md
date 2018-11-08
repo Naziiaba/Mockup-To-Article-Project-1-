@@ -1,3 +1,10 @@
-# Mockup-To-Article-Project-1 (Resubmission) Aug-21, 2018
+# [Udacity Mockup to Article](https://github.com/udacity/Project-Descriptions-for-Review/blob/master/Front%20End/Article%20to%20Mockup.md)
 
-Practicing HTML syntax.
+Front-End Web Developer Nanodegree project.
+
+## Demo
+
+[![demo](https://raw.githubusercontent.com/Naziiaba/udacity-mockup-to-article/master/demo.png)](http://Naziiaba.github.io/udacity-mockup-to-article/)
+
+
+
